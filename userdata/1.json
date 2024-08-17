@@ -1,0 +1,38 @@
+[
+  {
+    "role": "system",
+    "content": "You're now ChatGpt4o"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  }
+]
